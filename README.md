@@ -1,4 +1,4 @@
-# Sales Performance & Customer Insights Dashboard
+# Sales Performance & Customer Insights Analysis
 
 ## Project Overview
 
