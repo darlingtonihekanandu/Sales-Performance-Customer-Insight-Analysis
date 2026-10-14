@@ -67,16 +67,6 @@ Before transforming the dataset, I profiled the columns to understand missing va
 
 The initial profiling identified:
 
-| Column | Blank Rows |
-|---|---:|
-| Region | 50 |
-| Age | 100 |
-| Shipping Status | 50 |
-
-These missing values were retained as missing information rather than being replaced with assumptions.
-
-This was important because the missing values later became part of the project's data-quality findings. Profiling the data before building the dashboard helped identify which columns required cleaning, transformation, or further validation.
-
 ---
 
 # Data Cleaning and Transformation
