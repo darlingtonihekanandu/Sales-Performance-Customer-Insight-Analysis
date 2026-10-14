@@ -244,7 +244,7 @@ This was important because the purpose of the visual is to show the actual movem
 ---
 
 # Power BI Dashboard
-
+![Sales Performance Dashboard](Images/Sales_Performance_Dashboard.png)
 After completing the cleaning and validation process, the prepared dataset was loaded into Power BI.
 
 The dashboard was designed to give management a quick overview first, followed by deeper analysis.
